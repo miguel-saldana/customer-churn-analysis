@@ -43,7 +43,7 @@ Improve working capital efficiency and reduce lost sales by:
 
 inventory-optimization/
 │
-├── data/                 # Raw and processed datasets
+├── data/
 │
 ├── sql/
 │   ├── data_cleaning.sql
