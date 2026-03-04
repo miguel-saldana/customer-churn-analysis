@@ -30,3 +30,56 @@ Improve working capital efficiency and reduce lost sales by:
 
 ---
 
+## 🛠 Tech Stack
+
+- SQL (data cleaning, aggregations, KPI calculation)
+- Python (inventory modeling, safety stock simulation)
+- Power BI (executive dashboard)
+- Star schema data modeling
+
+---
+
+## 📂 Repository Structure
+
+inventory-optimization/
+│
+├── data/                 # Raw and processed datasets
+│
+├── sql/
+│   ├── data_cleaning.sql
+│   ├── kpi_calculations.sql
+│
+├── python/
+│   ├── inventory_analysis.ipynb
+│
+├── powerbi/
+│   ├── inventory-dashboard.pbix
+│
+└── README.md
+
+---
+
+## 📈 Project Workflow
+
+1. Business case definition
+2. KPI framework design
+3. Data exploration
+4. SQL KPI calculations
+5. Safety stock & reorder point modeling
+6. Dashboard development
+7. Executive recommendations
+
+---
+
+## 🚀 Business Impact (To Be Measured)
+
+- Reduced stockout rate
+- Improved inventory turnover
+- Optimized safety stock levels
+- Enhanced capital allocation
+
+---
+
+## 🔗 Portfolio Reference
+
+This project is part of my data analytics portfolio focused on business-driven decision support in retail and supply chain environments.
